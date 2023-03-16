@@ -1,0 +1,29 @@
+.aprouch-information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aprouch-information img {
+  max-height: 200px;
+  margin: 15px;
+  margin-bottom: 0px;
+}
+
+.pixel-art {
+  border-radius: 50%;
+}
+
+.small-information-about {
+  background-color: #81d2dc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 160px;
+}
+
+.small-information-about p:nth-child(n) {
+  max-width: 60%;
+}

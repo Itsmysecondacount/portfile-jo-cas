@@ -1,0 +1,6 @@
+.header-layout {
+  background: #81d2dc;
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+}

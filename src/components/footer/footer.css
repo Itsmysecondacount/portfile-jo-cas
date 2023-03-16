@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+  background: #81d2dc;
+}
+
+.small-img {
+  height: 90px;
+}
+
+.logo-link {
+  color: #41597c;
+}
+
+.logo-link:hover {
+  color: #879ab8;
+}
+
+.footer-span {
+  border: none;
+}
