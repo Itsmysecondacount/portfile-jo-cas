@@ -1,5 +1,6 @@
 .figure-container {
 	position: relative;
+	margin: 15px;
 }
 
 figcaption {
@@ -36,7 +37,8 @@ figcaption:hover {
 	padding: 20px;
 }
 
-.a-ref-black a:hover {
+.a-ref-black a:hover,
+.a-ref-black a:active {
 	color: #6e07f3;
 	border: 1px solid#6e07f3;
 }
@@ -47,4 +49,16 @@ figcaption:hover {
 	object-fit: cover;
 	border-radius: 10px;
 	border: 7px solid #81d2dc;
+}
+
+@media (max-width: 610px) {
+	.figure-container img {
+		width: 400px;
+		height: 400px;
+	}
+
+	.figcaption {
+		position: initial;
+		opacity: 1;
+	}
 }
