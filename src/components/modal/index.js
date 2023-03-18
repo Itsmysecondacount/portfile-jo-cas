@@ -1,4 +1,5 @@
 import { MdDarkMode } from "react-icons/md";
+import "./modal.css";
 
 export const Modal = ({ toggleTheme }) => {
   return (

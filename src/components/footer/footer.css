@@ -1,24 +1,25 @@
 .footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 40px 0px;
-  background: #81d2dc;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 40px 0px;
+	background: #81d2dc;
 }
 
 .small-img {
-  height: 90px;
+	height: 90px;
+	border-radius: 50%;
 }
 
 .logo-link {
-  color: #41597c;
+	color: #6e07f3;
 }
 
 .logo-link:hover {
-  color: #879ab8;
+	color: #8b81dc;
 }
 
 .footer-span {
-  border: none;
+	border: none;
 }
