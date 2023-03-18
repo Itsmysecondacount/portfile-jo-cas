@@ -1,0 +1,35 @@
+[33mcommit 3377e0ae77e69c3bc67584ba946b2c48fc0a7dfb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jorge Castillo <jorge.castillo.torres.a@gmail.com>
+Date:   Fri Mar 17 10:50:09 2023 -0500
+
+    [ADD] github Actions
+
+[33mcommit 519e1d250291f2eb4437264c0d8218305989c3ca[m
+Author: Jorge Castillo <jorge.castillo.torres.a@gmail.com>
+Date:   Thu Mar 16 21:33:35 2023 -0500
+
+    [ADD] pixel art
+
+[33mcommit 3c79e3700e89d4aa5f7c6779b0dfa512743e9849[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Itsmysecondacount <jorge.castillo.torres.a@gmail.com>
+Date:   Wed Mar 15 21:58:23 2023 -0500
+
+    [ADD] first part
+
+[33mcommit 5048ea4e62dff50327b8a82f6df6dc00ab8d7ecd[m
+Author: Itsmysecondacount <jorge.castillo.torres.a@gmail.com>
+Date:   Wed Mar 15 09:45:47 2023 -0500
+
+    [UPDATE] modify tree of components in src
+
+[33mcommit afc9c8833d95f36dd7536dd0c84846796ed6605c[m
+Author: Itsmysecondacount <jorge.castillo.torres.a@gmail.com>
+Date:   Wed Mar 15 09:35:09 2023 -0500
+
+    first commit
+
+[33mcommit 55ca317461a903a77eda3c782ceb0b347237a80f[m
+Author: Itsmysecondacount <jorge.castillo.torres.a@gmail.com>
+Date:   Wed Mar 15 09:22:09 2023 -0500
+
+    Initialize project using Create React App

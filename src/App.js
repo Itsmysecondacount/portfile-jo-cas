@@ -7,6 +7,7 @@ import { Skills } from "./components/skills";
 import img1 from "./assets/projects-images/1.png";
 import img2 from "./assets/projects-images/2.png";
 import img3 from "./assets/projects-images/3.png";
+import { ThemeProvider } from "./components/hooks/useThemes";
 
 const array = [
   {
@@ -37,13 +38,13 @@ const array = [
 
 function App() {
   return (
-    <>
+    <ThemeProvider>
       <Header />
       <FirstAprouchInformation />
       <Skills />
       <ProjectsList projectList={array} />
       <Footer />
-    </>
+    </ThemeProvider>
   );
 }
 

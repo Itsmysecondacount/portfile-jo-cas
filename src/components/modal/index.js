@@ -1,9 +1,9 @@
 import { MdDarkMode } from "react-icons/md";
 
-export const Modal = () => {
+export const Modal = ({ toggleTheme }) => {
   return (
     <div className="modal-styles">
-      <MdDarkMode color={"#8B81DC"} size={"3em"} />
+      <MdDarkMode onClick={toggleTheme} color={"#8B81DC"} size={"3em"} />
     </div>
   );
 };
