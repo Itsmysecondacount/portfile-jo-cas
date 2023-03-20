@@ -8,4 +8,5 @@
 
 .theme-button:hover {
   color: var(--color);
+  cursor: pointer;
 }

@@ -46,17 +46,52 @@
 @media (max-width: 930px) {
   .aprouch-information img:nth-of-type(1) {
     max-height: 270px;
+    transition: 0.6s;
   }
   .aprouch-information img:nth-of-type(2) {
     max-height: 290px;
+    transition: 0.6s;
   }
 }
 
 @media (max-width: 630px) {
+  .aprouch-information h1 {
+    font-size: 1.5em;
+    max-width: 80%;
+    text-align: center;
+  }
+
+  .aprouch-information p {
+    font-size: 0.8em;
+    max-width: 80%;
+    text-align: center;
+  }
+
   .aprouch-information img:nth-of-type(1) {
     max-height: 240px;
+    transition: 0.6s;
   }
   .aprouch-information img:nth-of-type(2) {
     max-height: 220px;
+    transition: 0.6s;
+  }
+
+  .small-information-about h2 {
+    font-size: 1.3em;
+    max-width: 80%;
+    text-align: center;
+  }
+
+  .small-information-about p {
+    font-size: 0.8em;
+    max-width: 80%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .aprouch-information img:nth-of-type(2) {
+    max-height: 150px;
+    transition: 0.6s;
   }
 }

@@ -7,6 +7,11 @@
   background: var(--boxes-color);
 }
 
+.footer p {
+  text-align: center;
+  max-width: 70%;
+}
+
 .small-img {
   height: 90px;
   border-radius: 50%;
@@ -14,6 +19,7 @@
 
 .logo-link {
   color: #6e07f3;
+  margin: 20px;
 }
 
 .logo-link:hover {

@@ -17,14 +17,14 @@ export const Footer = () => {
           rel="noreferrer"
           target="_blank"
         >
-          <AiFillGithub size={"3em"} className="logo-link" />
+          <AiFillGithub size={"4em"} className="logo-link" />
         </a>
         <a
           href="https://www.linkedin.com/in/jorge-castillo-79b06a14b/"
           target="_blank"
           rel="noreferrer"
         >
-          <AiFillLinkedin size={"3em"} className="logo-link" />
+          <AiFillLinkedin size={"4em"} className="logo-link" />
         </a>
       </span>
     </div>

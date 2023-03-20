@@ -13,6 +13,11 @@
   gap: 20px;
 }
 
+.projects-display p {
+  text-align: center;
+  max-width: 70%;
+}
+
 .projects-display span a,
 .projects-display span a:active {
   color: #6e07f3;
