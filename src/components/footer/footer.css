@@ -1,25 +1,29 @@
 .footer {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	padding: 40px 0px;
-	background: #81d2dc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+  background: var(--boxes-color);
 }
 
 .small-img {
-	height: 90px;
-	border-radius: 50%;
+  height: 90px;
+  border-radius: 50%;
 }
 
 .logo-link {
-	color: #6e07f3;
+  color: #6e07f3;
 }
 
 .logo-link:hover {
-	color: #8b81dc;
+  color: #8b81dc;
 }
 
 .footer-span {
-	border: none;
+  border: none;
+}
+
+.dark-footer {
+  background: #212121;
 }

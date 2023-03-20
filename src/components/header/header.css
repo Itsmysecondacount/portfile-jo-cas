@@ -1,15 +1,15 @@
 .header-layout {
-	background: #81d2dc;
-	display: flex;
-	justify-content: space-between;
-	height: 60px;
+  background: var(--boxes-color);
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
 }
 
 .header-layout img {
-	border-radius: 50%;
-	margin: 5px;
+  border-radius: 50%;
+  margin: 5px;
 }
 
 .dark-header {
-  background: #616161;
+  background: #212121;
 }

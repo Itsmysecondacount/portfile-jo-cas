@@ -1,4 +1,11 @@
 .modal-styles {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
+}
+.theme-button {
+  color: #6e07f3;
+}
+
+.theme-button:hover {
+  color: var(--color);
 }
