@@ -9,6 +9,7 @@ export const Modal = () => {
 
   useEffect(() => {
     document.body.setAttribute("data-theme", theme);
+    document.body.setAttribute("perro", "hola");
   }, [theme]);
 
   return (
